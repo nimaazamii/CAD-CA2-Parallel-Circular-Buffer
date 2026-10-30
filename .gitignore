@@ -1,0 +1,19 @@
+# Simulation outputs
+*.vcd
+*.fst
+*.wlf
+*.vvp
+*.log
+*.jou
+*.str
+transcript
+vsim.dbg
+vsim.wlf
+work/
+xsim.dir/
+.sim/
+*.mti
+*.mpf
+*.bak
+*.tmp
+*.exe
